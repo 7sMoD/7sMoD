@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @randomve
 - 👀 I’m interested in Web Dev & Game Dev
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently working as Game Dev
 - 💞️ I’m looking to collaborate on null
 - 📫 How to reach me email randomdudedev@gmail.com
 
