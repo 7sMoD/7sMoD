@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @randomve
+- 👋 Hi, I’m @7sMoD
 - 👀 I’m interested in Web Dev & Game Dev
 - 🌱 I’m currently working as Game Dev
 - 💞️ I’m looking to collaborate on null
