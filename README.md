@@ -3,6 +3,8 @@
 ### A passionate indie game developer & Web developer
 
 - 🔭 I'm currently working as **Freelancer**
+  
+- 💻 Coding since 2022
 
 - 👨‍💻 All of my projects are available at **[https://7smod.itch.io](https://7smod.itch.io)**
 
