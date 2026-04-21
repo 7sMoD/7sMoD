@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://github.com/7sMoD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="7sMoD" height="40" /></a>&nbsp;
 <a href="https://instagram.com/7sMoD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="7sMoD" height="40" /></a>&nbsp;
-<a href="https://x.com/7sMoD" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="7sMoD" height="40" /></a>&nbsp;
+<a href="https://x.com/7sMoD" target="blank"><img align="center" src="https://proicons.com/icon/349872.svg" alt="7sMoD" height="40" /></a>&nbsp;
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
